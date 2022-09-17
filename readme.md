@@ -72,10 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 32 mins   ████████████████████████▓   98.52 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
