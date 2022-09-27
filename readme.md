@@ -11,14 +11,15 @@
 </a>
 <br>
 </p>
-<h4>I'm a Machine Learning/AI Practitioner and have a strong interest in New technologies.</h4>
+<h4>I'm a DevOps and Open-Source Practitioner and have a strong interest in New technologies.</h4>
 
 
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I like to work on machine learning algorithms and cloud technologies.
 
--<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I'm currently learning Devops.
+-<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I'm currently learning DevOps & GitOps.
 
--<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> 2022 Goals: Explore about Computer vision, Deep learning, NLP, Time Series Analysis, Generative adversarial networks, Audio Deep learning, 3D-modelling with neural network etc.
+-<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> 2022 Goals: Explore more about FinOps, and more tools related to DevOps, and read books based on organizations practicing DevOps in the real world.
+
 
 
 
@@ -67,7 +68,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 📊 **this week i spent my time on:**
+## 📊 **this week I spent my time on:**
 
 <!--START_SECTION:waka-->
 
@@ -81,7 +82,7 @@ Python   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <br>
 
-## If you like my work, maybe consider buying me a coffee 🥺👉👈
+## If you like my work, then consider buying me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/sonalirajput" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
