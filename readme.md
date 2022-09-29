@@ -20,18 +20,6 @@
 
 
 
-## 📊 **this week I spent my time on:**
-
-<!--START_SECTION:waka-->
-
-```text
-Go       1 hr 25 mins    █████████████████████████   99.74 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
-<!--END_SECTION:waka-->
-
-
 <br>
 
 ## If you like my work, then consider buying me a coffee 🥺👉👈
