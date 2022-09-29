@@ -11,14 +11,13 @@
 </a>
 <br>
 </p>
-<h4>I'm a DevOps and Open-Source Practitioner and have a strong interest in New technologies.</h4>
+<h4>I'm a DevOps and Open-Source Practitioner and have a strong interest in Cloud-Native technologies.</h4>
 
 
--<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I like to work on machine learning algorithms and cloud technologies.
+-<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I like to work on cloud technologies.
 
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I'm currently learning DevOps & GitOps.
 
--<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> 2022 Goals: Explore more about FinOps, and more tools related to DevOps, and read books based on organizations practicing DevOps in the real world.
 
 
 
