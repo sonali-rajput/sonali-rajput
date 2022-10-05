@@ -22,7 +22,7 @@
 
 <br>
 
-## If you like my work, then consider buying me a coffee 🥺👉👈
+## Support 🥺
 
 <a href="https://www.buymeacoffee.com/sonalirajput" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
