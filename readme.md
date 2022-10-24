@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/sonali-rajput-822aab1b6/">
   <img  alt="Sonali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://sonalirajput.hashnode.dev/">
+  <img  alt="Sonali's Blog" width="22px" src="https://img.icons8.com/external-itim2101-flat-itim2101/344/external-blog-smartphone-technology-itim2101-flat-itim2101.png" />
+</a>
 <br>
 </p>
 
