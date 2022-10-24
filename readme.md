@@ -1,4 +1,4 @@
-<h1 align="center">Hellu , This is Sonali Rajput <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"></h1>
+<h1 align="center">Hi! This is Sonali Rajput <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"></h1>
 <p align="center">
 Feel Free reaching out to me at following platforms: <br>
 <a href="https://twitter.com/heyiamsra">
