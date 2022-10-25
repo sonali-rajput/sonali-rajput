@@ -22,7 +22,7 @@ Feel Free reaching out to me at following platforms: <br>
 
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I like to work on cloud technologies.  
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I'm currently learning DevOps & GitOps.  
--<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I’m looking to collaborate on anything related DevOps!  
+-<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I’m looking to collaborate on anything related to DevOps!  
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I love listening to Podcasts & Reading Books & Morning Walks 🤍    
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I love to connect with people. You can connect with me on [Twitter](https://twitter.com/heyiamsra) and contact me at [Mail](mailto:sonalirajput1088@gmail.com)
 
