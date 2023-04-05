@@ -4,19 +4,12 @@ Feel Free reaching out to me at following platforms: <br>
 <a href="https://twitter.com/heyiamsra">
   <img  alt="Sonali's  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/zCyjYMp4Dn">
-  <img alt="Sonali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sonali-rajput-822aab1b6/">
-  <img  alt="Sonali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://sonalirajput.hashnode.dev/">
   <img  alt="Sonali's Blog" width="22px" src="https://img.icons8.com/external-itim2101-flat-itim2101/344/external-blog-smartphone-technology-itim2101-flat-itim2101.png" />
 </a>
 <br>
 </p>
 
-[![@heyiamsra's Holopin board](https://holopin.me/heyiamsra)](https://holopin.io/@heyiamsra)
 <h4>I'm a DevOps and Open-Source Practitioner and have a strong interest in Cloud-Native technologies.</h4>
 
 
@@ -27,10 +20,6 @@ Feel Free reaching out to me at following platforms: <br>
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I love to connect with people. You can connect with me on [Twitter](https://twitter.com/heyiamsra) and contact me at [Mail](mailto:sonalirajput1088@gmail.com)
 
 <br>
-
-## Support 🥺
-
-<a href="https://www.buymeacoffee.com/sonalirajput" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
