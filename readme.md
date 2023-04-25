@@ -25,7 +25,7 @@ Feel Free reaching out to me at following platforms: <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,git,kubernetes,docker,aws,linux,terraform,ansible,jenkins,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,git,kubernetes,docker,aws,linux,ansible,jenkins,prometheus,grafana" />
   </a>
 </p>
 
