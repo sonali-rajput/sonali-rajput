@@ -1,12 +1,4 @@
 <h1 align="center">Hi! This is Sonali Rajput <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"></h1>
-<p align="center">
-Feel Free reaching out to me at following platforms: <br>
-<a href="https://twitter.com/heyiamsra">
-  <img  alt="Sonali's  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://sonalirajput.hashnode.dev/">
-  <img  alt="Sonali's Blog" width="22px" src="https://img.icons8.com/external-itim2101-flat-itim2101/344/external-blog-smartphone-technology-itim2101-flat-itim2101.png" />
-</a>
 <br>
 </p>
 
