@@ -9,7 +9,8 @@
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I'm currently learning DevOps & GitOps.  
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I’m looking to collaborate on anything related to DevOps!  
 -<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I love listening to Podcasts & Reading Books.   
--<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I love to connect with people. You can connect with me on [Twitter](https://twitter.com/heyiamsra)
+-<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> I love to connect with people. You can connect with me on [Twitter](https://twitter.com/heyiamsra)  
+-<img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="35"> Check out my blogs [here](https://hashnode.com/@heyiamsra)  
 
 <br>
 
