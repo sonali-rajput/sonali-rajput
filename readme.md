@@ -15,12 +15,3 @@
 <br>
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,java,vscode,git,kubernetes,docker,aws,linux,jenkins,prometheus,grafana" />
-  </a>
-</p>
-
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sonali-Rajput.visitor-badge&left_text=My%20Page%20Visitors)
